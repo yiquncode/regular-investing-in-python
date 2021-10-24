@@ -4,6 +4,10 @@ I have always wanted a tool to compare the performance of investment in regular 
 
 Although I mainly focus on crypto, of course, you can change the parameters to any asset you want to follow.
 
+![Screenshot](ETH-USD.png)
+
+![Screenshot](lumpsum.png)
+
 # Notes
 
 Obviously, for wizards who can predict the future, the lump sum investment is better, Most people think of themselves as wizards.
